@@ -1,0 +1,112 @@
+[
+    {
+        "firstname": "Izayiah",
+        "Surname": "Dharma",
+        "birthday": "2009-07-12",
+        "BSN": "235910132",
+        "houseNumber": "50",
+        "houseLetter": "x",
+        "street": "SIGOURNEY ST",
+        "city": "Provo",
+        "PostalCode": "0570QV"
+    },
+    {
+        "firstname": "Talvin",
+        "Surname": "Idres",
+        "birthday": "2005-10-22",
+        "BSN": "551871003",
+        "houseNumber": "44",
+        "houseLetter": "a",
+        "street": "EDGEWOOD ST",
+        "city": "Hamilton",
+        "PostalCode": "0622MM"
+    },
+    {
+        "firstname": "Sabastien",
+        "Surname": "Özgür",
+        "birthday": "2005-12-27",
+        "BSN": "666080537",
+        "houseNumber": "23",
+        "houseLetter": "i",
+        "street": "BURLINGTON ST",
+        "city": "Temple",
+        "PostalCode": "7769FZ"
+    },
+    {
+        "firstname": "Anoop",
+        "Surname": "Nhat-tien",
+        "birthday": "2010-03-31",
+        "BSN": "276205558",
+        "houseNumber": "71",
+        "houseLetter": "n",
+        "street": "COLEBROOK ST",
+        "city": "Missouri City",
+        "PostalCode": "3413RH"
+    },
+    {
+        "firstname": "Meika",
+        "Surname": "Spiridon",
+        "birthday": "2014-09-15",
+        "BSN": "077756988",
+        "houseNumber": "20",
+        "houseLetter": "z",
+        "street": "VICTORIA RD",
+        "city": "Houston",
+        "PostalCode": "5215NS"
+    },
+    {
+        "firstname": "Timm",
+        "Surname": "Donny",
+        "birthday": "2006-04-05",
+        "BSN": "300871338",
+        "houseNumber": "99",
+        "houseLetter": "t",
+        "street": "FLORENCE ST",
+        "city": "San Antonio",
+        "PostalCode": "2091SF"
+    },
+    {
+        "firstname": "Mattaeus",
+        "Surname": "Audrey",
+        "birthday": "2016-05-17",
+        "BSN": "220327658",
+        "houseNumber": "98",
+        "houseLetter": "g",
+        "street": "PARK TER",
+        "city": "Athens",
+        "PostalCode": "3940LI"
+    },
+    {
+        "firstname": "Fikret",
+        "Surname": "Rayne",
+        "birthday": "2000-07-25",
+        "BSN": "284978887",
+        "houseNumber": "95",
+        "houseLetter": "y",
+        "street": "WASHINGTON ST",
+        "city": "Amarillo",
+        "PostalCode": "6995ZG"
+    },
+    {
+        "firstname": "Patrick",
+        "Surname": "Nihad",
+        "birthday": "2022-11-05",
+        "BSN": "300417913",
+        "houseNumber": "58",
+        "houseLetter": "y",
+        "street": "AMHERST ST",
+        "city": "Medford",
+        "PostalCode": "4478BE"
+    },
+    {
+        "firstname": "Kasan",
+        "Surname": "Piero",
+        "birthday": "2003-02-06",
+        "BSN": "035573107",
+        "houseNumber": "9",
+        "houseLetter": "w",
+        "street": "SIGOURNEY ST",
+        "city": "Montebello",
+        "PostalCode": "5456SD"
+    }
+]

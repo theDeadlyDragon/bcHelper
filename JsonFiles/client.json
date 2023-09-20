@@ -1,0 +1,12 @@
+{
+    "ServerURL":"test.dom",
+    "firstname":"Name",
+    "Surname":"Name",
+    "birthday":"Date",
+    "BSN":"BSN",
+    "houseNumber":"Number",
+    "houseLetter":"Letter",
+    "street":"Street",
+    "city":"City",
+    "PostalCode":"PostalCode"
+}
